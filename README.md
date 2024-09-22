@@ -1,1 +1,1 @@
-# Stock_market_forecasting_using_ARIMA_and_LSTM
+# Stock_market_forecasting_using_ARIMA
